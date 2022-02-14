@@ -1,0 +1,4 @@
+git init : start tracking by git
+ls : list file
+git add . : add all file to staging area 
+git add filename.txt : add certain file to staging 
