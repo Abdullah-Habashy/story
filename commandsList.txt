@@ -1,7 +1,0 @@
-git init : start tracking by git
-ls : list file
-git add . : add all file to staging area 
-git add filename.txt : add certain file to staging 
-git status : see files in staging
-git commit : Add edits to repo
-git log : see commit log
